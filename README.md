@@ -1,5 +1,11 @@
 # README
 
+MD file called markdown file. It is a text file created using one of several possible dialects of the Markdown language. It is saved in plain text format but includes inline text symbols that define how to format text. MD files are designed for authoring plain text documentation that can be easily converted to HTML
+
+
+Here we explore how we can write an md5 file from scratch. The original text file used to render the current page you are reading is given as readme.md.orig
+
+
 # Section 1 - HEADINGS
 # This is an H1
 ## This is an H2
