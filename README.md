@@ -99,7 +99,9 @@ links are auto-detected in text: http://example.com
 
 # images
 
-![Alt text](image.jpg)
+![Alt text](md.png)
+
+
 [imageid]: https:://images.com
 
 ![Reference Image][imageid]
