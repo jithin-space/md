@@ -61,9 +61,9 @@ Following is an example of a quote
 
 # Inline code characters.
 
-use the backtick to refer to a `function()'.
+use the backtick to refer to a `function()`.
 
-There is a literal ``backtick (`)` here.
+There is a literal ``backtick (`)``  here.
 
 # Code blocks
 
