@@ -17,22 +17,27 @@ This is also an H1
 This is also an H2
 -------------------
 
-# Paragraphs
+# Section 2 - Paragraphs
 
 paragraphs are separted by empty lines. Within a paragraph it is simply press <return> for a new line.
 
 for example, this is another paragraph,but
 it belongs to previous line in the paragraph
 
-# Character styles
+# Section 3 - Character styles
 
 *Italic*
+
 _Italic_
+
 **bold**
+
 __bold__
+
 ~~strikethrough~~
 
-# Unordered List
+
+# Section 4 - Unordered List
 
 * Item 1
 * Item 2
@@ -41,7 +46,7 @@ __bold__
     * item 3b
 * Item 4
 
-# Ordered List
+# Section 5 - Ordered List
 
 1. Step1
 2. Step2
@@ -50,14 +55,14 @@ __bold__
     2. Step 3.2
 4. Step4
 
-# List in List
+# Section 6 - List in List
 
 1. Step 1
 2. Step 2
     * ul 1
     * ul 2
 
-# Quotes or citations
+# Section 7 - Quotes or citations
 
 Following is an example of a quote
 
@@ -65,13 +70,13 @@ Following is an example of a quote
 > or state of motion unless
 > it is acted upon by an external unbalanced force
 
-# Inline code characters.
+# Section 8 - Inline code characters.
 
 use the backtick to refer to a `function()`.
 
-There is a literal ``backtick (`)``  here.
+There is a literal ``backtick `(`)``  here.
 
-# Code blocks
+# Section 9 - Code blocks
 
 Indent every line of the block by at least 4 spaces.
 
@@ -95,7 +100,7 @@ window.onbeforeunload = function() {
 };
 ```
 
-# Links
+# Section 10 - Links
 
 This is an [example](http://www.example.com/) inline link
 
@@ -103,7 +108,7 @@ This is an [example](http://www.example.com/) inline link
 
 links are auto-detected in text: http://example.com
 
-# images
+# Section 11 - Images
 
 ![Alt text](md.png)
 
@@ -112,7 +117,7 @@ links are auto-detected in text: http://example.com
 
 ![Reference Image][imageid]
 
-# Tables
+# Section 12 - Tables
 
 | Day   | Meal  | Price |
 | ------|-------|-------|
@@ -121,4 +126,6 @@ links are auto-detected in text: http://example.com
 
 
 
+# Reference
 
+This is only an attempt to learn md inspired from [this](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html) link.
