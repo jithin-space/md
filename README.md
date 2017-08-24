@@ -88,3 +88,29 @@ window.onbeforeunload = function() {
     saveCoverage();
 };
 ```
+
+# Links
+
+This is an [example](http://www.example.com/) inline link
+
+[This link](http://example.com/ "Title") has a title attribute.
+
+links are auto-detected in text: http://example.com
+
+# images
+
+![Alt text](image.jpg)
+[imageid]: https:://images.com
+
+![Reference Image][imageid]
+
+# Tables
+
+| Day   | Meal  | Price |
+| ------|-------|-------|
+| Monday| pasta | $5    |
+| Tuesday| chicken | $8 |
+
+
+
+
