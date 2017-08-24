@@ -44,4 +44,47 @@ __bold__
     2. Step 3.2
 4. Step4
 
+# List in List
 
+1. Step 1
+2. Step 2
+    * ul 1
+    * ul 2
+
+# Quotes or citations
+
+Following is an example of a quote
+
+> Everybody Continues to be in its state of rest
+> or state of motion unless
+> it is acted upon by an external unbalanced force
+
+# Inline code characters.
+
+use the backtick to refer to a `function()'.
+
+There is a literal ``backtick (`)` here.
+
+# Code blocks
+
+Indent every line of the block by at least 4 spaces.
+
+This is a normal paragraph but
+
+    This is a code block.
+    With multiple lines.
+
+Alternatively , you can use 3 backtick quote marks before and after.
+
+```
+This is a code block
+```
+
+To add syntax highlighting to a code block, add the name after the backticks:
+
+```javascript
+document.getElementById("test");
+window.onbeforeunload = function() {
+    saveCoverage();
+};
+```
